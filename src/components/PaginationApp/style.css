@@ -4,6 +4,6 @@
   margin-top: 20px;
 }
 
-:where(.css-dev-only-do-not-override-26rdvq).ant-select {
+.ant-select {
   display: none;
 }
