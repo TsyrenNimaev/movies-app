@@ -1,0 +1,7 @@
+.section {
+  margin: 0 auto;
+  /* width: 938px; */
+  max-width: 938px;
+  padding: 0 5px 20px 5px;
+  /* padding-bottom: 20px; */
+}

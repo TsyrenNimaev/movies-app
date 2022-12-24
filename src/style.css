@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./assets/fonts/Inter-Regular.woff2") format("woff2"), url("./assets/fonts/Inter-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter UI";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./assets/fonts/Inter-UI-Regular.woff2") format("woff2"), url("./assets/fonts/Inter-UI-Regular.woff") format("woff");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Inter UI", sans-serif;
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  margin: 0 auto;
+  /* width: 1010px; */
+  max-width: 1010px;
+  background-color: #fff;
+}
+
+/* .section {
+  
+} */

@@ -1,0 +1,9 @@
+.ant-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+:where(.css-dev-only-do-not-override-26rdvq).ant-select {
+  display: none;
+}

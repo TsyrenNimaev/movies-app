@@ -1,0 +1,9 @@
+.ant-tabs-nav {
+  max-width: 146px;
+}
+
+:where(.css-dev-only-do-not-override-26rdvq).ant-tabs {
+  display: flex;
+  align-items: center;
+  font-family: 'Inter';
+}
